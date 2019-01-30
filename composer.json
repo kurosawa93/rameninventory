@@ -1,0 +1,14 @@
+{
+    "name": "ordent/rameninventory",
+    "description": "RamenInventory is part of Ramen package suite which handle stocking and listing inventory from product.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rachmat Priambudi",
+            "email": "rachmat.keybladers93@gmail.com"
+        }
+    ],
+    "require": {
+        "ordent/ramenrest": "^1.1"
+    }
+}
