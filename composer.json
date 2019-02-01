@@ -10,5 +10,10 @@
     ],
     "require": {
         "ordent/ramenrest": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ordent\\RamenInventory\\": "src/"
+        }
     }
 }
